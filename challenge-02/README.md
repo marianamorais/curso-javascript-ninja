@@ -3,32 +3,33 @@
 Nesse exercício, você está livre para escolher os nomes para suas variáveis e funções! :smile:
 
 ```js
-// Crie uma função que receba dois argumentos e retorne a soma dos mesmos.
+// 1 - Crie uma função que receba dois argumentos e retorne a soma dos mesmos.
 ?
 
-// Declare uma variável que receba a invocação da função criada acima, passando dois números quaisquer por argumento, e somando `5` ao resultado retornado da função.
+// 2 - Declare uma variável que receba a invocação da função criada acima, passando dois números quaisquer por argumento, e somando `5` ao resultado retornado da função.
 ?
 
-// Qual o valor atualizado dessa variável?
+// 3 - Qual o valor atualizado dessa variável? > 16
 ?
 
-// Declare uma nova variável, sem valor.
+// 4 - Declare uma nova variável, sem valor.
 ?
 
-/*
+/* 5 -
 Crie uma função que adicione um valor à variável criada acima, e retorne a string:
     O valor da variável agora é VALOR.
 Onde VALOR é o novo valor da variável.
 */
 ?
 
-// Invoque a função criada acima.
+// 6 - Invoque a função criada acima.
 ?
 
-// Qual o retorno da função? (Use comentários de bloco).
+// 7 - Qual o retorno da função? (Use comentários de bloco).
+/* O novo VALOR da variavel agora é: 20*/
 ?
 
-/*
+/* 8 - 
 Crie uma função com as seguintes características:
 1. A função deve receber 3 argumentos;
 2. Se qualquer um dos três argumentos não estiverem preenchidos, a função deve retornar a string:
@@ -37,19 +38,20 @@ Crie uma função com as seguintes características:
 */
 ?
 
-// Invoque a função criada acima, passando só dois números como argumento.
+// 9 - Invoque a função criada acima, passando só dois números como argumento.
 ?
 
-// Qual o resultado da invocação acima? (Use comentários para mostrar o valor retornado).
+// 10 - Qual o resultado da invocação acima? (Use comentários para mostrar o valor retornado).
+// Preencha todos os valores corretamente!
 ?
 
-// Agora invoque novamente a função criada acima, mas passando todos os três argumentos necessários.
+// 11 - Agora invoque novamente a função criada acima, mas passando todos os três argumentos necessários.
 ?
 
-// Qual o resultado da invocação acima? (Use comentários para mostrar o valor retornado).
+// 12 - Qual o resultado da invocação acima? (Use comentários para mostrar o valor retornado).
 ?
 
-/*
+/* 13 -
 Crie uma função com as seguintes características:
 1. A função deve receber 3 argumentos.
 2. Se somente um argumento for passado, retorne o valor do argumento.
@@ -60,6 +62,6 @@ Crie uma função com as seguintes características:
 */
 ?
 
-// Invoque a função acima utilizando todas as possibilidades (com nenhum argumento, com um, com dois e com três.) Coloque um comentário de linha ao lado da função com o resultado de cada invocação.
+// 14 - Invoque a função acima utilizando todas as possibilidades (com nenhum argumento, com um, com dois e com três.) Coloque um comentário de linha ao lado da função com o resultado de cada invocação.
 ?
 ```
