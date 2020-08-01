@@ -22,10 +22,11 @@ console.log(updatevariavel());
 /* 8 - 9 - 10 - 11 - 12 */
 
 function gatoFofo (a, b, c) {
-    if (a === undefined && b === undefined && c === undefined) {
+    if (a === undefined || b === undefined || c === undefined) {
         return 'Preencha todos os valores corretamente!';
+    } else {
+        return ( a * b * c ) + 2;
     }
-    return ( a * b * c ) + 2; 
 }
 
 gatoFofo (2 , 3);

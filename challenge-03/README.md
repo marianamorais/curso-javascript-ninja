@@ -1,11 +1,11 @@
 # Desafio da semana #3
 
 ```js
-// Declarar uma variável qualquer, que receba um objeto vazio.
+// 1 - Declarar uma variável qualquer, que receba um objeto vazio.
 ?
 
 /*
-Declarar uma variável `pessoa`, que receba suas informações pessoais.
+2 - Declarar uma variável `pessoa`, que receba suas informações pessoais.
 As propriedades e tipos de valores para cada propriedade desse objeto devem ser:
 - `nome` - String
 - `sobrenome` - String
@@ -19,14 +19,14 @@ As propriedades e tipos de valores para cada propriedade desse objeto devem ser:
 ?
 
 /*
-Adicione um método ao objeto `pessoa` chamado `fazerAniversario`. O método deve
+3 - Adicione um método ao objeto `pessoa` chamado `fazerAniversario`. O método deve
 alterar o valor da propriedade `idade` dessa pessoa, somando `1` a cada vez que
 for chamado.
 */
 ?
 
 /*
-Adicione um método ao objeto `pessoa` chamado `andar`, que terá as seguintes
+4 - Adicione um método ao objeto `pessoa` chamado `andar`, que terá as seguintes
 características:
 - Esse método deve receber por parâmetro um valor que representará a quantidade
 de metros caminhados;
@@ -38,13 +38,13 @@ booleano que representa "verdadeiro";
 ?
 
 /*
-Adicione um método ao objeto `pessoa` chamado `parar`, que irá modificar o valor
+5 - Adicione um método ao objeto `pessoa` chamado `parar`, que irá modificar o valor
 da propriedade `andando` para o valor booleano que representa "falso".
 */
 ?
 
 /*
-Crie um método chamado `nomeCompleto`, que retorne a frase:
+6 - Crie um método chamado `nomeCompleto`, que retorne a frase:
 - "Olá! Meu nome é [NOME] [SOBRENOME]!"
 */
 ?
@@ -73,24 +73,28 @@ Qual o nome completo da pessoa? (Use a instrução para responder e comentários
 inline ao lado da instrução para mostrar qual foi a resposta retornada)
 */
 ?
+/* Olá! Meu nome é Mariana Morais ! */
 
 /*
 Qual a idade da pessoa? (Use a instrução para responder e comentários
 inline ao lado da instrução para mostrar qual foi a resposta retornada)
 */
 ?
+/* Ola! eu tenho 23 anos! */
 
 /*
 Qual o peso da pessoa? (Use a instrução para responder e comentários
 inline ao lado da instrução para mostrar qual foi a resposta retornada)
 */
 ?
+/* Eu peso 70 Kg. */
 
 /*
 Qual a altura da pessoa? (Use a instrução para responder e comentários
 inline ao lado da instrução para mostrar qual foi a resposta retornada)
 */
 ?
+/* Minha altura é 1.68 m. */
 
 /*
 Faça a `pessoa` fazer 3 aniversários.
@@ -103,6 +107,7 @@ comentários inline ao lado da instrução para mostrar qual foi a resposta
 retornada)
 */
 ?
+/* 26 anos */
 
 /*
 Agora, faça a `pessoa` caminhar alguns metros, invocando o método `andar` 3x,
