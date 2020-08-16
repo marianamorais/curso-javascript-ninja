@@ -48,19 +48,19 @@ carro.mudaCor = function(cor) {
 
 /* 6 */
 
-carro.obterCor = function(){
+carro.obterCor = function() {
   return carro.cor;
 };
 
 /* 7 */
 
-carro.obterModelo = function(){
+carro.obterModelo = function() {
   return carro.modelo;
 };
 
 /* 8 */
 
-carro.obterMarca = function(){
+carro.obterMarca = function() {
   return carro.marca;
 };
 
